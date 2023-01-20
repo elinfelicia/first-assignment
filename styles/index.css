@@ -1,3 +1,37 @@
+body {
+    background-color: #f6fff8;
+    text-align: center;
+}
+
 img {
-    max-width: 200px;
+    max-width: 300px;
+    border: 10px #a4c3b2 solid;
+    border-radius: 50px
+}
+p {
+    max-width: 300px;
+    border: 10px #f6fff8 solid;
+    padding: 10px;
+    color: #6b9080;
+}
+h1 {
+    padding-bottom: 30px;
+}
+h1, h2 {
+    color: #a4c3b2;
+    text-shadow: 0 0 1px black;
+}
+#tintin, #fish {
+    display: flex;
+    width: 1000px;
+    align-items: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#llamas {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
