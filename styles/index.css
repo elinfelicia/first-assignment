@@ -69,6 +69,9 @@ ul {
     margin-left: auto;
     margin-right: auto;
 }
+.position {
+    font-style: italic
+}
 .footer {
     display: flex;
     justify-content: center;
