@@ -9,7 +9,7 @@ body {
 main {
     margin-top: 20px;
     background-color: rgba(246, 255, 248, 0.8);
-    border-radius: 50px;;
+    border-radius: 50px;
 }
 img {
     max-width: 300px;
@@ -70,7 +70,6 @@ ul {
     margin-right: auto;
 }
 .footer {
-    width: 1000 px;
     display: flex;
     justify-content: center;
 }
